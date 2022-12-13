@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Footballscoreboard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Footballscoreboard/dist/Footballscoreboard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
